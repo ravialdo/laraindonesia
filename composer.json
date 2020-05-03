@@ -1,0 +1,27 @@
+{
+    "name": "ravialdo/laraindinesia",
+    "description": "Package laraindonesia memungkinkan mengubah bahasa project validasi laravel anda menjadi bahasa indonesia.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ravialdo Imanda Putra",
+            "email": "ravialdo@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+            "psr-4": {
+                   "App\\": "app/",
+                   "Ravialdo\\LaraIndonesia\\": "src"
+            }
+    },
+    "extra": {
+         "laravel": {
+               "providers": [
+                      "Ravialdo\\LaraIndonesia\\Providers\\LaraIndonesiaServiceProvider"
+              ]
+         }
+    }
+}
