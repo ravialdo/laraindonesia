@@ -18,5 +18,5 @@ Open the app.php file in the config folder and change it as below :
 <code>
   'locale' => 'in',
 </code>
-
+<br>
 <b>Thank, Good Job!</b>
