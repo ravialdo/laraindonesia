@@ -25,24 +25,43 @@ a choice will appear as an example :
 
 <code>
 Which provider or tag's files would you like to publish?:
+  
   [0 ] Publish files from all providers and tags listed below
+  
   [1 ] Provider: Facade\Ignition\IgnitionServiceProvider
+  
   [2 ] Provider: Fideloper\Proxy\TrustedProxyServiceProvider
+  
   [3 ] Provider: Fruitcake\Cors\CorsServiceProvider
+  
   [4 ] Provider: Illuminate\Foundation\Providers\FoundationServiceProvider
+  
   [5 ] Provider: Illuminate\Mail\MailServiceProvider
+  
   [6 ] Provider: Illuminate\Notifications\NotificationServiceProvider
+  
   [7 ] Provider: Illuminate\Pagination\PaginationServiceProvider
+  
   [8 ] Provider: Laravel\Tinker\TinkerServiceProvider
+  
   [9 ] Provider: Ravialdo\LaraIndonesia\Providers\LaraIndonesiaServiceProvider
+  
   [10] Tag: cors
+  
   [11] Tag: flare-config
+  
   [12] Tag: ignition-config
+  
   [13] Tag: laravel-errors
+  
   [14] Tag: laravel-mail
+  
   [15] Tag: laravel-notifications
+  
   [16] Tag: laravel-pagination
+  
  > 9
+ 
 </code>
 <br> <br>
 
