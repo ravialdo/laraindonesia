@@ -13,7 +13,7 @@ Laraindonesia can be used in Laravel version 7 or lower.
 after completing install, do the following command :
 <br> <br>
 <code>
-$ php artisan vendor::publish
+$ php artisan vendor:publish
 </code>
 <br> <br>
 a choice will appear as an example :
@@ -25,6 +25,10 @@ Which provider or tag's files would you like to publish? :
 <code>
 [9 ] Provider: Ravialdo\LaraIndonesia\Providers\LaraIndonesiaServiceProvider
 </code>
+<br>
+<code>
+ > 9
+ </code>
 <br> <br>
 Please select Ravialdo/LaraIndonesia/LaraIndonesiaServiceProvider, after selecting it will appear as below :
 <br> <br>
