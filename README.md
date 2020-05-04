@@ -42,4 +42,4 @@ Open the app.php file in the config folder and change it as below :
   'locale' => 'in',
 </code>
 <br> <br>
-<b>Thank you, good luck!</b>
+<b>Done friend!</b>
