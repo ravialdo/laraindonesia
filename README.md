@@ -12,7 +12,7 @@ To start using this package can be done by the composer, open your laravel proje
 $ composer require ravialdo/laraindonesia
 </code>
 
-<br>
+<br><br>
 Laraindonesia can be used in Laravel version 7 or lower.
 
 ## Configuration
