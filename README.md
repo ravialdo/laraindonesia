@@ -28,7 +28,7 @@ Please select Ravialdo/LaraIndonesia/LaraIndonesiaServiceProvider, after selecti
 <br> <br>
 <code>
 Copied Directory [/vendor/ravialdo/laraindonesia/resources/lang] To [/resources/lang]
-  
+  ...
 Publishing complete.
 </code>
 <br> <br>
