@@ -19,4 +19,4 @@ Open the app.php file in the config folder and change it as below :
   'locale' => 'in',
 </code>
 
-### Thank, Good Job!
+<b>Thank, Good Job!</b>
