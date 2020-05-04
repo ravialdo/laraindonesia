@@ -25,10 +25,6 @@ Which provider or tag's files would you like to publish? :
 <code>
 [9 ] Provider: Ravialdo\LaraIndonesia\Providers\LaraIndonesiaServiceProvider
 </code>
-<br>
-<code>
- > 9
- </code>
 <br> <br>
 Please select Ravialdo/LaraIndonesia/LaraIndonesiaServiceProvider, after selecting it will appear as below :
 <br> <br>
