@@ -26,7 +26,7 @@ Which provider or tag's files would you like to publish? :
 [9 ] Provider: Ravialdo\LaraIndonesia\Providers\LaraIndonesiaServiceProvider
 </code>
 <br> <br>
-Please select Ravialdo/LaraIndonesia/LaraIndonesiaServiceProvider, after selecting it will appear as below :
+Please select Ravialdo\LaraIndonesia\Providers\LaraIndonesiaServiceProvider, after selecting it will appear as below :
 <br> <br>
 <code>
 Copied Directory [/vendor/ravialdo/laraindonesia/resources/lang] To [/resources/lang]
