@@ -20,7 +20,8 @@ a choice will appear as an example :
 <br> <br>
 <code>
 Which provider or tag's files would you like to publish? :
-  
+</code>
+<code>
 [9 ] Provider: Ravialdo\LaraIndonesia\Providers\LaraIndonesiaServiceProvider
 </code>
 <br> <br>
@@ -28,7 +29,8 @@ Please select Ravialdo/LaraIndonesia/LaraIndonesiaServiceProvider, after selecti
 <br> <br>
 <code>
 Copied Directory [/vendor/ravialdo/laraindonesia/resources/lang] To [/resources/lang]
-  
+</code>
+<code>
 Publishing complete.
 </code>
 <br> <br>
