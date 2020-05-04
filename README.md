@@ -20,4 +20,4 @@ Open the app.php file in the config folder and change it as below :
 </code>
 <br> <br>
 
-<b>Thank, Good Job!</b>
+<b>Thank you, good luck!</b>
