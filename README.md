@@ -7,7 +7,11 @@ Regarding the Laraindonesia Package, it is possible to display the validation of
 
 To start using this package can be done by the composer, open your laravel project and do the installation as below :
 <br> <br>
+
+<code>
 $ composer require ravialdo/laraindonesia
+</code>
+
 <br> <br>
 Laraindonesia can be used in Laravel version 7 or lower.
 
