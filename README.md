@@ -50,7 +50,8 @@ Please select Ravialdo / Laraindonesia / LaraIndonesiaServiceProvider, after sel
 <br> <br>
 
 <code>
-Copied Directory [/vendor/ravialdo/laraindonesia/resources/lang] To [/resources/lang] <br>
+Copied Directory [/vendor/ravialdo/laraindonesia/resources/lang] To [/resources/lang]
+
 Publishing complete.
 </code>
 <br> <br>
